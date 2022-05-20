@@ -51,7 +51,7 @@ getPlanets()
 
     return planetsContainer.innerHTML =  planets. join("")
     })
-
+console.log*("test")
     
 
 
