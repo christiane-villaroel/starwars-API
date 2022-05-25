@@ -49,7 +49,7 @@ getPlanets()
         </div>` 
      })
 
-    return planetsContainer.innerHTML =  planets. join("")
+    return planetsContainer.innerHTML =  planets.join("")
     })
 console.log*("test")
     
